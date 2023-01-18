@@ -1,7 +1,7 @@
 # ben
-<!DOCTYPE html><DOCTYPE css><body bgcolor="#b9b6f2">
-<h2>  hi And Welcome i did use html / css / js coding To build this First website  Hopeful  Get to  Web  developer senior experience> </br>
-code<details><form aria-valuetext="5"
+
+<h2>  hi And Welcome i did use html /coding To build this First website  Hopeful  Get to  Web  developer senior experience> </br>
+
 <article><body> Hello this is my first time coding this website I tried to use Python but it did not work for me and this works for me  
 <body> first website for me yeah  Yes I know it'sA job Blog  about me but I have to celebrate my accomplishment by making a website first 
 </details> 
@@ -27,7 +27,7 @@ job<details>All about my experience
     <br> Vacuum Carpets & Clean Windows
     <br> Clean & Sanitize Bathroom
     <br> Empty Trash & Pick Up Trash Around Facility,
-    <text><h4> Digital Conversion Intern, DKA/Archive Advantage, Tucson, AZ 2021â€”2022
+    <text><h4> Digital Conversion Intern, DKA/Archive Advantage, Tucson, AZ 2021 ”2022
     <br>  Utilize various scanner hardware and
     software based on scope of
     operation
@@ -43,7 +43,7 @@ job<details>All about my experience
     documents
     <br> Develop computer and data entry 
     <text><h4> Education
-    <br> High School Diploma, Robbinsdale Armstrong High School, Plymouth, MN 2018â€”2021
+    <br> High School Diploma, Robbinsdale Armstrong High School, Plymouth, MN 2018 ”2021
     </details> goals
     <details> Get web certification 
         <br> get web job 
@@ -53,9 +53,9 @@ job<details>All about my experience
         </details>
         Coding web lauguage List <details>List Coding This list has one through five Five is the highest 
             <br>JavaScript 3
-            <br>Java1
+            <br>Java 1
             <br>HTML 5
-            <br>CSS3
+            <br>CSS 3
             <br>React
             <br>Angular
             <br>Objective C 

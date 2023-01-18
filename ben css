@@ -1,0 +1,33 @@
+
+:required
+      …
+        element ::-webkit-scrollbar>
+          …
+            element :-moz-full-screen>
+              …
+                body circle >center ::backdrop {background-color: orange;} ::before 
+                  … 
+                    element :enabled> 
+                      …
+                        element ::-webkit-scrollbar>
+                          … 
+                           
+                                    
+                                      … 
+                                        
+                                          …
+                                            element :left>
+                                              …
+                                                element ::-webkit-validation-bubble-message>hi How  my job blog>
+element::-webkit-progress-bar> br>
+.elemnent::before>
+.logo body circle-color-orange::shadow>
+::-webkit-scrollbar-thumb>
+::-webkit-scrollbar-track-piece>
+::-webkit-scrollbar-corner >
+::-webkit-resizer>
+br>
+ 
+ 
+ 
+
